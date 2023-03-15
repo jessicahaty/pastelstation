@@ -152,6 +152,6 @@ body{
     }
     
     .apresentacao__link__navegacao {
-        padding: 10% 10%;
+        gap: 20%;
     }
 }
