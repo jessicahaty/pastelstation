@@ -150,4 +150,8 @@ body{
     .fotoantiga{
         width: 50%;
     }
+    
+    .apresentacao__link__navegacao {
+        width: 90%;
+    }
 }
