@@ -151,7 +151,7 @@ body{
         width: 50%;
     }
     
-    .apresentacao__link__navegacao {
-        gap: 20%;
+    .apresentacao__links__navegacao {
+        padding: 15%;
     }
 }
